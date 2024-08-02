@@ -1,4 +1,3 @@
-Here's an explanation of logging in programming, formatted in a GitHub README style:
 
 ---
 
